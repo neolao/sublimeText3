@@ -5,4 +5,8 @@
 /Local/*
 /Cache/*
 
+Packages/User/Package Control.cache
+Packages/User/Package Control.last-run
+Packages/User/Package Control.ca-bundle
+Packages/User/Package Control.ca-list
 Packages/Default/Startup.cache
