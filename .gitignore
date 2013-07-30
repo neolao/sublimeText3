@@ -5,6 +5,8 @@
 /Local/*
 /Cache/*
 
+.DS_Store
+
 Packages/User/Package Control.cache
 Packages/User/Package Control.last-run
 Packages/User/Package Control.ca-bundle
