@@ -1,0 +1,8 @@
+<snippet>
+    <description>JSDoc @param</description>
+    <content><![CDATA[
+@param   {${1:string}}    ${2:name}        ${3:Description}
+]]></content>
+    <tabTrigger>@param</tabTrigger>
+    <scope>source.ts</scope>
+</snippet>

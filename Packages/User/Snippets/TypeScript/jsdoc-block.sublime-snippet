@@ -1,0 +1,10 @@
+<snippet>
+    <description>JSDoc block</description>
+    <content><![CDATA[
+/**
+ * ${1:Documentation}
+ */
+]]></content>
+    <tabTrigger>/**</tabTrigger>
+    <scope>source.ts</scope>
+</snippet>

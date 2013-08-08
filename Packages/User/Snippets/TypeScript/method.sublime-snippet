@@ -1,0 +1,14 @@
+<snippet>
+    <description>Method of a class</description>
+    <content><![CDATA[
+/**
+ * ${4:Documentation}
+ */
+${3:public} function ${1:name}(${2})
+{
+    $5
+}
+]]></content>
+    <tabTrigger>fun</tabTrigger>
+    <scope>source.ts</scope>
+</snippet>
