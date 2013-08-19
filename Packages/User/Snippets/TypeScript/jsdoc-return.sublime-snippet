@@ -1,0 +1,8 @@
+<snippet>
+    <description>JSDoc @return</description>
+    <content><![CDATA[
+@return  {${1:string}}     ${2:Description}
+]]></content>
+    <tabTrigger>@return</tabTrigger>
+    <scope>source.ts</scope>
+</snippet>

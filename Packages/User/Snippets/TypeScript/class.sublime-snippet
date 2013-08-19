@@ -1,0 +1,26 @@
+<snippet>
+    <description>Class template</description>
+    <content><![CDATA[
+/**
+ * ${3:Description}
+ *
+ * @namespace ${2:Namespace}
+ * @class ${1:Name}
+ * @constructor
+ */
+class ${1:Name}
+{
+    /**
+     * Constructor
+     */
+    constructor()
+    {
+        $4
+    }
+}
+
+export = ${1:Name};
+]]></content>
+    <tabTrigger>class</tabTrigger>
+    <scope>source.ts</scope>
+</snippet>
