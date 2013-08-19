@@ -1,0 +1,19 @@
+<snippet>
+    <description>Interface template</description>
+    <content><![CDATA[
+/**
+ * ${3:Description}
+ *
+ * @namespace ${2:Namespace}
+ * @interface ${1:Name}
+ */
+interface ${1:Name}
+{
+    $4
+}
+
+export = ${1:Name};
+]]></content>
+    <tabTrigger>interface</tabTrigger>
+    <scope>source.ts</scope>
+</snippet>

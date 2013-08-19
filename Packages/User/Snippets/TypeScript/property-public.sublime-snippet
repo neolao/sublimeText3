@@ -1,0 +1,14 @@
+<snippet>
+    <description>Property of a class</description>
+    <content><![CDATA[
+/**
+ * ${3:Documentation}
+ *
+ * @property ${1:name}
+ * @type {${2:string}}
+ */
+public ${1:name};
+]]></content>
+    <tabTrigger>public</tabTrigger>
+    <scope>source.ts</scope>
+</snippet>
