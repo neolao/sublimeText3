@@ -7,7 +7,7 @@
  * @property ${1:name}
  * @type {${2:string}}
  */
-public ${1:name};
+public ${1:name}:${2:string};
 ]]></content>
     <tabTrigger>public</tabTrigger>
     <scope>source.ts</scope>
