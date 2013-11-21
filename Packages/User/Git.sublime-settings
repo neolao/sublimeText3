@@ -4,8 +4,6 @@
 
     // if present, use this command instead of plain "git"
     // e.g. "/Users/kemayo/bin/git" or "C:\bin\git.exe"
-    ,"git_command": "/usr/local/git/bin/git"
+    ,"git_command": "C:\\Program Files\\PortableGit-1.8.4-preview20130916\\bin\\git.exe"
 
-    // point this the installation location of git-flow
-    ,"git_flow_command": "/usr/local/bin/git-flow"
 }

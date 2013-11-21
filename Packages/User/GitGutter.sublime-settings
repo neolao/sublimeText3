@@ -1,4 +1,4 @@
 {
   // Custom path to git binary when not in PATH
-  "git_binary": "/usr/local/git/bin/git"
+  "git_binary": "C:\\Program Files\\PortableGit-1.8.4-preview20130916\\bin\\git.exe"
 }
