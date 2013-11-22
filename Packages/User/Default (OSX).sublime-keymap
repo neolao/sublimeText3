@@ -5,5 +5,7 @@
     { "keys": ["super+alt+down"], "command": "duplicate_line" },
     { "keys": ["ctrl+space"], "command": "auto_complete" },
 
+    { "keys": ["super+g"], "command": "goto_definition" },
+
     { "keys": ["super+k"], "command": "set_mark" }
 ]
