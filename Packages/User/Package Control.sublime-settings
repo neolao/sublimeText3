@@ -5,7 +5,12 @@
 		"Alignment",
 		"Andrew",
 		"AngularJS",
+		"Color Highlighter",
 		"Comment-Snippets",
+		"CSS Format",
+		"CSScomb JS",
+		"CTags",
+		"CursorRuler",
 		"DocBlockr",
 		"Git",
 		"GitGutter",
@@ -15,11 +20,15 @@
 		"Markdown Preview",
 		"Package Control",
 		"PHP Companion",
+		"Pretty JSON",
 		"Require Node.js Modules Helper",
 		"Sass",
+		"SCSS",
+		"Swift",
 		"Todo",
 		"Twig",
 		"TypeScript",
-		"Web Inspector 3"
+		"Web Inspector 3",
+		"Zip Browser"
 	]
 }

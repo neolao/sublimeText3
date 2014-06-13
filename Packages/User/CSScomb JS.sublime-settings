@@ -1,0 +1,23 @@
+{
+    "always-semicolon": true,
+    "block-indent": 4,
+    "colon-space": [0, 1],
+    "color-case": "lower",
+    "color-shorthand": true,
+    "combinator-space": [" ", " "],
+    "element-case": "lower",
+    "eof-newline": true,
+    "leading-zero": false,
+    "quotes": "double",
+    "remove-empty-rulesets": false,
+    "rule-indent": 4,
+    "stick-brace": 1,
+    "strip-spaces": false,
+    "unitless-zero": true,
+    "vendor-prefix-align": false,
+    "sort-order": [ 
+        ["$variable"],
+        ["$include"],
+        ["margin", "padding"]
+    ]
+}
